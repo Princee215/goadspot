@@ -16,14 +16,7 @@ export const addresses = {
       'Opp. ESIC Hospital, Sector-22,',
       'Noida, Gautam Buddha Nagar, Uttar Pradesh - 201301',
     ],
-  },
-  registered: {
-    label: 'Registered Office Address',
-    lines: [
-      'House No. I-874/18, Hari Nagar Extn,',
-      'Jaitpur, Badarpur, New Delhi - 110044',
-    ],
-  },
+  }
 }
 
 export const audiences = [

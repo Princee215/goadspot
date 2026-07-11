@@ -9,12 +9,6 @@ function Addresses() {
           <p key={line}>{line}</p>
         ))}
       </div>
-      <div className="address-block">
-        <h3>{addresses.registered.label}</h3>
-        {addresses.registered.lines.map((line) => (
-          <p key={line}>{line}</p>
-        ))}
-      </div>
     </div>
   )
 }
